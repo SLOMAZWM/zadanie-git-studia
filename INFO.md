@@ -15,3 +15,9 @@ ignorowania plików, tagowania, gałęzi i rozwiązywania konfliktów.
 ## Repozytorium GitHub
 
 <https://github.com/SLOMAZWM/zadanie-git-studia>
+
+## Pliki ignorowane
+
+W repozytorium znajduje sie plik `.gitignore` z regula ignorujaca plik
+`sekret.txt`. Plik ten nie jest sledzony przez Git i nie zostaje wypchniety
+na zdalne repozytorium.
