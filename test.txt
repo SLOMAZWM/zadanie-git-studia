@@ -1,0 +1,1 @@
+Plik testowy - bedzie usuniety przez git reset --hard, a nastepnie odzyskany przez git reflog.
