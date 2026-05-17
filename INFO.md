@@ -11,3 +11,7 @@ ignorowania plików, tagowania, gałęzi i rozwiązywania konfliktów.
 
 - Marcin Słomka
 - Błażej Kozieł
+
+## Repozytorium GitHub
+
+<https://github.com/SLOMAZWM/zadanie-git-studia>
